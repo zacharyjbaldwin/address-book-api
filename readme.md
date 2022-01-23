@@ -7,7 +7,7 @@ It even allows for using API keys for security.
 
 Sample output from `GET /api/people?apikey=abc123` where my custom API key is `abc123`:
 
-![sample output](https://raw.githubusercontent.com/zacharyjbaldwin/address-book-api/master/img/sample-output-1.JPG)
+![sample output](img/sample-output-1.JPG)
 
 Of course, this aligns with the entries stored in the MongoDB database:
 
