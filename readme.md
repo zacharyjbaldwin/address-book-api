@@ -11,7 +11,7 @@ Sample output from `GET /api/people?apikey=abc123` where my custom API key is `a
 
 Of course, this aligns with the entries stored in the MongoDB database:
 
-![mongo database entries](https://raw.githubusercontent.com/zacharyjbaldwin/address-book-api/master/img/mongo-database-people.JPG)
+![mongo database entries](img/mongo-database-people.JPG)
 
 More to come in the future.
 
